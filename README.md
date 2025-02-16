@@ -8,5 +8,5 @@
 * Имеет 2 стиля (Светлый и Тёмный)
 * Имеет 2 режима отображения (Видимые окна и Все процессы)
 
-![image](https://github.com/user-attachments/assets/7e27b268-23f9-48cc-9998-11dea260df71)
-![image](https://github.com/user-attachments/assets/1be0970f-eeea-4fb3-854f-e0eefda797ff)
+![image](https://github.com/user-attachments/assets/4e2b20bb-faaa-46d6-891b-d2a8398233ed)
+![image](https://github.com/user-attachments/assets/38bb8d89-ef93-4092-a305-8a8921e18eff)
