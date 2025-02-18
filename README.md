@@ -7,6 +7,8 @@
 * Имеет смену языка (Английский, Украинский, Русский язык)
 * Имеет 2 стиля (Светлый и Тёмный)
 * Имеет 2 режима отображения (Видимые окна и Все процессы)
+* Имеет поиск процессов
+* Можно добавить процессы в избранный режим
 
-![image](https://github.com/user-attachments/assets/4e2b20bb-faaa-46d6-891b-d2a8398233ed)
-![image](https://github.com/user-attachments/assets/d87b4762-d4d8-4467-beaf-ffa7eabf051a)
+![image](https://github.com/user-attachments/assets/31fb62e6-bc6b-4ec7-9084-0c68bd5f9a90)
+![image](https://github.com/user-attachments/assets/727ef117-fe4c-4366-82fa-0bd9135d3eaf)
