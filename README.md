@@ -1,5 +1,15 @@
 # Process-Manager
 
+It has the following functionality:
+* Can hide any window in the background (so as not to interfere)
+* Can show any window from the background
+* Has a process close button
+* Has a language change (English, Ukrainian, Russian)
+* Has 2 styles (Light and Dark)
+* Has 2 display modes (Visible Windows and All processes)
+* Has a search for processes
+* You can add processes to your favorites mode
+---
 Имеет функционал:
 * Может скрывать любое окно в фон (чтобы не мешало)
 * Может показать любое окно из фона
